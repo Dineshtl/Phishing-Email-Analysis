@@ -1,0 +1,14 @@
+Subject: Your Account Has Been Suspended
+
+Dear Customer,
+
+We have detected unusual activity on your bank account. For your safety, we have temporarily suspended your account access.
+
+To restore access, please verify your identity immediately by clicking the secure link below:
+
+http://secure-bank-verifylogin.com/update
+
+Failure to act within 24 hours may result in permanent suspension.
+
+Sincerely,  
+Bank of Trust Online Security Team

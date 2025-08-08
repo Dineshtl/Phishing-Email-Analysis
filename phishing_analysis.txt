@@ -1,0 +1,23 @@
+Phishing Indicators Identified:
+
+1. 🚩 Spoofed Sender:
+   - Appears as a bank, but the sender domain is unrelated or suspicious.
+
+2. 🔗 Suspicious Link:
+   - Hover link points to: http://secure-bank-verifylogin.com/update
+   - Doesn’t match the real bank domain.
+
+3. ⚠️ Urgent Language:
+   - "Verify within 24 hours" pressures the user into acting without thinking.
+
+4. 🧑‍💻 Generic Greeting:
+   - Uses “Dear Customer” instead of the recipient's name.
+
+5. 📄 Grammatical Red Flags:
+   - Sentences are formal but robotic; possible template.
+
+6. 📎 No Digital Signature:
+   - Lacks any signs of legitimate corporate formatting or digital signature.
+
+7. 🛠 Email Header (optional):
+   - Can be analyzed using https://mxtoolbox.com/EmailHeaders.aspx if you have headers.
